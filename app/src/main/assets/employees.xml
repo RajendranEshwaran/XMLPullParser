@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Gomathi Rajendran</name>
+        <salary>500000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Gomathi</name>
+        <salary>600000</salary>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Rajendran Eshwaran</name>
+        <salary>200000$</salary>
+    </employee>
+
+</employees>
